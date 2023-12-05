@@ -13,26 +13,25 @@ Division
 # Getting Started
 ## Prerequisites
 Web browser (Google Chrome, Firefox, Safari, etc.)
-Installation
+
+## Installation
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/basic-calculator.git
+// git clone https://github.com/your-username/basic-calculator.git
 Open the index.html file in your preferred web browser.
-Usage
+
+## Usage
 Launch the calculator by opening the index.html file.
 Perform calculations using the provided buttons.
-Contributing
+
+## Contributing
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository
-Create a new branch (git checkout -b feature/your-feature)
-Make your changes
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/your-feature)
-Create a pull request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/your-feature)
+3. Make your changes
+4. Commit your changes (git commit -m 'Add some feature')
+5. Push to the branch (git push origin feature/your-feature)
+6. Create a pull request
 
-Acknowledgments
-Inspiration: [Provide credits or inspiration sources if any]
+## Acknowledgments
+Inspiration: [https://youtu.be/cGgLHJGyS34?si=RjaJM9j2X9jMeAIY]
