@@ -5,23 +5,23 @@ A simple web-based calculator created using HTML and CSS.
 This project is a basic calculator built with HTML for the structure and CSS for styling. It provides essential arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
-Addition
-Subtraction
-Multiplication
-Division
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
 # Getting Started
 ## Prerequisites
 Web browser (Google Chrome, Firefox, Safari, etc.)
 
 ## Installation
-Clone the repository:
-// gh repo clone DarshanSuresh/BasicCalculator
-Open the index.html file in your preferred web browser.
+1. Clone the repository:
+gh repo clone DarshanSuresh/BasicCalculator
+2. Open the index.html file in your preferred web browser.
 
 ## Usage
-Launch the calculator by opening the index.html file.
-Perform calculations using the provided buttons.
+1. Launch the calculator by opening the index.html file.
+2. Perform calculations using the provided buttons.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
