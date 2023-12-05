@@ -3,8 +3,6 @@ A simple web-based calculator created using HTML and CSS.
 
 ![BasicCalculator](https://github.com/DarshanSuresh/BasicCalculator/assets/113186075/4ac36f91-a77b-433b-9206-a868f2c908ac)
 
-BasicCalculator.jpg
-
 ## Overview
 This project is a basic calculator built with HTML for the structure and CSS for styling. It provides essential arithmetic operations such as addition, subtraction, multiplication, and division.
 
