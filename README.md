@@ -1,6 +1,8 @@
 # Basic Calculator
 A simple web-based calculator created using HTML and CSS.
 
+BasicCalculator.jpg
+
 ## Overview
 This project is a basic calculator built with HTML for the structure and CSS for styling. It provides essential arithmetic operations such as addition, subtraction, multiplication, and division.
 
