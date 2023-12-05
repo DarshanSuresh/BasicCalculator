@@ -16,7 +16,7 @@ Web browser (Google Chrome, Firefox, Safari, etc.)
 
 ## Installation
 Clone the repository:
-// git clone https://github.com/your-username/basic-calculator.git
+// gh repo clone DarshanSuresh/BasicCalculator
 Open the index.html file in your preferred web browser.
 
 ## Usage
