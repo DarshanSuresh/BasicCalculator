@@ -1,5 +1,5 @@
 # Basic Calculator
-A simple web-based calculator created using HTML and CSS.
+A simple web-based calculator created using HTML and CSS. 
 
 ![BasicCalculator](https://github.com/DarshanSuresh/BasicCalculator/assets/113186075/4ac36f91-a77b-433b-9206-a868f2c908ac)
 
