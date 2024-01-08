@@ -10,7 +10,7 @@ This project is a basic calculator built with HTML for the structure and CSS for
 * Addition
 * Subtraction
 * Multiplication
-* Division
+* Division 
 
 # Getting Started
 ## Prerequisites
